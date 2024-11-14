@@ -1,5 +1,3 @@
-- [About](#about)
-
-
+- [About](#-about)
 
 ## 🧐 About
